@@ -1,0 +1,26 @@
+[
+    {
+    "id": 1,
+    "name":"Yuvraj Singh",
+    "company":"Finicity Corp.",
+    "phone":"+91-7756089812"
+},
+{
+    "id": 2,
+    "name":"Aman Singh",
+    "company":"Abhishek Electronics",
+    "phone":"+91-4235432546"
+},
+{
+    "id": 3,
+    "name":"Ankit Singh",
+    "company":"BOA",
+    "phone":"+91-4235454654"
+},
+{
+    "id": 4,
+    "name":"Anuj Singh",
+    "company":"ICICI Bank",
+    "phone":"+91-5235465464"
+}
+]
